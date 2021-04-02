@@ -1,4 +1,4 @@
-//wap to accept length, breadth and height and calculate and display volume
+//wap to accept length and breadth of a rectangle and then print area
 #include<stdio.h>
 
 int main(){

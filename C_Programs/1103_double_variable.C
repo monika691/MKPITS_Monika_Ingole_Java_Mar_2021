@@ -1,9 +1,7 @@
+//wap to declare double variable to stroe a decimal number
 #include<stdio.h>
-#include<conio.h>
-
-void main(){
+int main(){
  int length,breadth,area;
- clrscr();
  printf("enter the length\n");
  scanf("%d",&length);
  printf("enter the breadth\n");
@@ -12,5 +10,5 @@ void main(){
  printf("area of rectangle is %d",area);
 
 
-getch();
+return 0;
 }

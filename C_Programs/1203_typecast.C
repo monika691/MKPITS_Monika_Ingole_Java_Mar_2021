@@ -1,13 +1,11 @@
+//7 EXAMPLE OF TYPECASTING 1
 #include<stdio.h>
-#include<conio.h>
-
-void main(){
+int main(){
  int num =200;
  float floatnum;
- clrscr();
  floatnum = num;
  printf("flotnum = %.2f",floatnum);
 
 
-getch();
+return 0;
 }

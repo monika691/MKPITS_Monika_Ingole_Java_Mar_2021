@@ -1,10 +1,10 @@
-#include<stdio.h>
-#include<conio.h>
+//5 PROGRAM TO ACCEPT A CHARACTER FROM THE USER AND THEN DISPLAY IT
 
-void main(){
+#include<stdio.h>
+
+int main(){
  char ch ='+';
- clrscr();
- printf("enter the character\n");
+  printf("enter the character\n");
  scanf("%c",&ch);
  printf("ch = %c\n",ch);
  printf("enter new character\n");
@@ -17,5 +17,5 @@ void main(){
 
 
 
-getch();
+return 0;
 }

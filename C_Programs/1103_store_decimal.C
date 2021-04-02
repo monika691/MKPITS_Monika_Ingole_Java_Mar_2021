@@ -1,11 +1,9 @@
+//wap to declare a float variable to store decimal no.
 #include<stdio.h>
-#include<conio.h>
-
-void main(){
+int main(){
  float num1;
- clrscr();
  num1=4523.567;
  printf("number = %f",num1);
 
-getch();
+return 0;
 }

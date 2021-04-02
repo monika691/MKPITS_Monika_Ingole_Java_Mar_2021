@@ -1,14 +1,12 @@
+//3 EXAMPLE OF UNARY OPERATOR
 #include<stdio.h>
-#include<conio.h>
-void main(){
+
+int main(){
  int a=10;
  int c;
- clrscr();
- c = a++;
+  c = a++;
  printf("a = %d\n",a);
  printf("c = %d\n",c);
 
-
-
-getch();
+return 0;
 }

@@ -1,8 +1,9 @@
+//1- write a program in c to print hello 
+
 #include<stdio.h>
-#include<conio.h>
-void main(){
- clrscr();
+int main(){
+ 
  printf("hello");
- getch();
+return 0;
 
 }

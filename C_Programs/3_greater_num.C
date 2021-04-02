@@ -1,3 +1,5 @@
+//wap to accept 3 numbers from the user and display the greater numbers(if elseif ...)
+
 #include<stdio.h>
 
 int main()

@@ -1,10 +1,11 @@
-#include<stdio.h>
-#include<conio.h>
+//1- write a program in c to print hello 
 
-void main(){
+#include<stdio.h>
+
+int main(){
  int num;
  num =5;
- clrscr();
+
  printf("number = %d\n",num);
-getch();
+return 0;
 }

@@ -1,12 +1,12 @@
-#include<stdio.h>
-#include<conio.h>
+//4 - wap to accept a number and then print the square of that number.
 
-void main(){
+#include<stdio.h>
+
+int main(){
  int num,square;
- clrscr();
  printf("enter the number \n");
  scanf("%d",&num);
  square = num * num;
  printf("square of number is %d\n",square);
-getch();
+return 0;
 }

@@ -1,11 +1,13 @@
-#include<stdio.h>
-#include<conio.h>
+//10 WAP TO ACCEPT BASIC SALARY FROM THE USER AND CALCULATE HRA(17% OF BASIC)
+//, DA(28% OF BASIC) , TA(56% OF BASIC) AND TOTAL SALARY.
 
-void main(){
+#include<stdio.h>
+
+int main(){
  float bs,ts,hra,da,ta;
  //hra=17%, da=28%, ta=56%,
  //bs-->basic salary, ts-->total salary
- clrscr();
+ 
    printf("enter basic salary\n");
    scanf("%f",&bs);
    hra=(bs*17)/100;
@@ -21,5 +23,5 @@ void main(){
    printf("total salary =%f\n",ts);
 
 
-getch();
+return 0;
 }

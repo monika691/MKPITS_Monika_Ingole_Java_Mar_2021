@@ -1,11 +1,11 @@
-#include<stdio.h>
-#include<conio.h>
+//2 EXAMPLE OF BINARY OPERATOR
 
-void main(){
+#include<stdio.h>
+
+int main(){
  int a=10;
  int b=4;
  int c;
- clrscr();
  c = a + b;
  printf("sum =%d\n",c);
  c = a - b;
@@ -17,5 +17,5 @@ void main(){
  c= a%b;
  printf("remainder = %d\n",c);
 
-getch();
+return 0;
 }

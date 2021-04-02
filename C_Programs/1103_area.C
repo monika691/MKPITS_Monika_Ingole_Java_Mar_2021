@@ -1,15 +1,13 @@
+// - wap to accept length and breadth of a rectangle and then print area
 #include<stdio.h>
-#include<conio.h>
-
-void main(){
- int length,breadth,height,volume;
-clrscr();
-printf("enter length,breadth,height\n");
-scanf("%d %d %d",&length,&breadth,&height);
- volume = length*breadth*height;
- printf("volume = %d\n",volume);
-
-
-
-getch();
+int main()
+{
+    int length,breadth,area;
+    printf("Enter length\n");
+scanf("%d",&length);
+printf("Enter breadth\n");
+scanf("%d",&breadth);
+area =length*breadth;
+printf("Area of rectangle =%d\n",area);
+return 0;
 }

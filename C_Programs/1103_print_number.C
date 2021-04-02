@@ -1,11 +1,9 @@
+//3- wap to accept a number and store the number in integer variable  and print the number
 #include<stdio.h>
-#include<conio.h>
-
-void main(){
+int main(){
  int num;
- clrscr();
  printf("enter your number\n");
  scanf("%d",&num);
  printf("number is %d\n",num);
-getch();
+return 0;
 }

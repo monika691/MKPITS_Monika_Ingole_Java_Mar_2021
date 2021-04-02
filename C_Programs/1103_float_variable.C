@@ -1,13 +1,11 @@
+//wap to accept a decimal number in float variable
 #include<stdio.h>
-#include<conio.h>
-
-void main(){
+int main(){
  double num;
- clrscr();
  printf("enter the number\n");
  scanf("%lf",&num);
  printf("number = %lf",num);
 
 
-getch();
+return 0;
 }

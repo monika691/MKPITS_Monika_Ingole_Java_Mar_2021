@@ -1,10 +1,9 @@
+//4 PROGRAM TO DECLARE A CHARACTER VARAIABLE AND STORE SOME CHARACTER IN IT.
 #include<stdio.h>
-#include<conio.h>
-void main(){
+int main(){
   char ch ='+';
-  clrscr();
   printf("char = %c\n",ch);
 
 
-getch();
+return 0;
 }
