@@ -15,7 +15,7 @@ int main()
     float area,cir;
     printf("Enter radius\n");
     scanf("%d",&radius);
-    calculate(radius,&area,&Cir);
+    calculate(radius,&area,&cir);
     printf("Area of rectangle =%f\n",area);
     printf("circ of rectangle =%f\n",cir);
     return 0;
