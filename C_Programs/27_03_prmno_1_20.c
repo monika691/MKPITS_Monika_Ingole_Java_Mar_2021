@@ -2,14 +2,19 @@
 #include<stdio.h>
 
 int main(){
-int n=2,cnt,rem;
+ 
+ int i,j;
 
-for(cnt=1;cnt<=20;cnt++){
-
-    rem = cnt% n;
-    if(rem==0){
-        printf("%d\n",cnt);
+    for(i=2;i<20;i++)
+    {  
+         for(j=2;j<=i;j++)
+    {
+        if( i == j)
+        printf("%d\n",i);
+        else if (i%j == 0)
+        break;
     }
-}
+        
+    }                
     return 0;
 }
