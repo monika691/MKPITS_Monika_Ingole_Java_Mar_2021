@@ -516,6 +516,126 @@ provided by class TestTnterface1, so there is no ambiguity.
 
 194-Java 8 Default Method in Interface
 
+195)example of default modifier
+
+196) Protected: The access level of a protected modifier is within the package and outside the package through child class
+
+197) 1 : Private: The access level of a private modifier is only within the class.
+ It cannot be accessed from outside the class.
+
+198)Another Example of Encapsulation in Java
+Let's see another example of encapsulation that has only four fields with its setter and getter methods.
+Account prt 1
+
+199)Simple Example of Encapsulation in Java
+Let's see the simple example of encapsulation that has only one field with its setter and getter methods.
+encapsulartion is 2nd part of student program
+
+200)read only method example
+EncapsulationEx2 is 2nd part of studnt1 program
+
+201)write only method example
+EncapsulationEx3 is 2nd part of Student3 program
+
+202)Another Example of Encapsulation in Java
+Let's see another example of encapsulation that has only four fields with its setter and getter methods.
+EncapsulationEx4 is 2nd part of Account
+
+203)Simple Example of Encapsulation in Java
+Let's see the simple example of encapsulation that has only one field with its setter and getter methods.
+student part
+
+204)read only method example
+Student 3 is part 1
+
+205)write only method example
+part 1 os Student 2 program
+
+206)Methods of Object class
+
+207)Example of clone() method (Object cloning)
+Let's see the simple example of object cloning
+
+208)Example of clone() method (Object cloning)
+Let's see the simple example of object cloning
+
+209)Java Access Modifiers with Method Overriding
+
+210)	char charAt(int index)	returns char value for the particular index
+
+211)	int length()	returns string length
+
+212)String substring(int beginIndex)	returns substring for given begin index.
+
+213)	String substring(int beginIndex, int endIndex)	returns substring for given begin index and end index.
+
+214)7	boolean contains(CharSequence s)	returns true or false after matching the sequence of char value.
+
+215)boolean equals(Object another)	checks the equality of string with the given object.
+
+216)--boolean isEmpty()	checks if string is empty.
+
+217)String concat(String str)	concatenates the specified string.
+
+218)String replace(char old, char new)	replaces all occurrences of the specified char value.
+
+219)String replace(CharSequence old, CharSequence new)	replaces all occurrences of the specified CharSequence.
+
+220)static String equalsIgnoreCase(String another)	compares another string. It doesn't check case.
+
+221)String[] split(String regex)	returns a split string matching regex.
+
+222)String[] split(String regex, int limit)	returns a split string matching regex and limit.
+
+223)int indexOf(int ch)	returns the specified char value index.
+
+224)int indexOf(String substring, int fromIndex)	returns the specified substring index starting with given index.
+
+225)String toLowerCase()	returns a string in lowercase.
+
+226)String toUpperCase()	returns a string in uppercase.
+
+227)String trim()	removes beginning and ending spaces of this string.
+
+228)static String valueOf(int value)	converts given type into string. It is an overloaded method.
+
+229)StringBuffer append() method
+  The append() method concatenates the given argument with this string.
+
+230) StringBuffer insert() method
+   The insert() method inserts the given string with this string at the given position.
+
+231) StringBuffer replace() method
+   The replace() method replaces the given string from the specified beginIndex and endIndex
+
+232) StringBuffer delete() method
+  The delete() method of StringBuffer class deletes the string from the specified beginIndex to endIndex.
+
+233) StringBuffer reverse() method
+   The reverse() method of StringBuilder class reverses the current string.
+
+234) StringBuffer capacity() method
+
+235) StringBuffer ensureCapacity() method
+
+236) StringBuilder append() method
+ The StringBuilder append() method concatenates the given argument with this string
+
+237) StringBuilder insert() method
+  The StringBuilder insert() method inserts the given string with this string at the given position
+
+238) StringBuilder replace() method
+  The StringBuilder replace() method replaces the given string from the specified beginIndex and endIndex.
+
+239) StringBuilder delete() method
+  The delete() method of StringBuilder class deletes the string from the specified beginIndex to endIndex.
+
+240) StringBuilder reverse() method
+  The reverse() method of StringBuilder class reverses the current string.
+
+241) StringBuilder capacity() method
+
+242) StringBuilder ensureCapacity() method
 
 
 
