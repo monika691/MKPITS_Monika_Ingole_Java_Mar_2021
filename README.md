@@ -638,6 +638,81 @@ Let's see the simple example of object cloning
 242) StringBuilder ensureCapacity() method
 
 
+243)Simple example of StringTokenizer class
+
+Let's see the simple example of StringTokenizer class that tokenizes a string "my name is khan" on the basis of whitespace.
+
+244)example of StringTokenizer class2
+
+245)Example of nextToken(String delim) method of StringTokenizer class
+
+246), the rest of the code is executed, i.e., the rest of the code statement is printed.
+
+247)In this example, we also kept the code in a try block that will not throw an exception.
+
+248)Here, we handle the exception using the parent class exception.
+
+249)Let's see an example to print a custom message on exception.
+
+250)Let's see an example to resolve the exception in a catch block.
+
+251)In this example, along with try block, we also enclose exception code in a catch block.
+
+252)In this example, we handle the generated exception (Arithmetic Exception) with a different type of exception class (ArrayIndexOutOfBoundsException).
+
+253)Let's see an example to handle another unchecked exception.
+
+254)Let's see an example to handle checked exception.
+
+255)Let's see a simple example of java multi-catch block.
+
+256)Let's see a simple example of java multi-catch block.
+
+257)In this example, try block contains two exceptions. But at a time only one exception occurs and its corresponding catch block is invoked.
+
+258)In this example, we generate NullPointerException,
+
+259)Let's see an example, to handle the exception without maintaining the order of exceptions (i.e. from most specific to most general).
+
+260)Case 1
+Let's see the java finally example where exception doesn't occur.
+
+261)Case 2
+Let's see the java finally example where exception occurs and not handled.
+
+262)Case 3
+Let's see the java finally example where exception occurs and handled.
+
+263)Java throws example
+Let's see the example of java throws clause which describes that checked exceptions can be propagated by throws keyword.
+
+264)Case1: You handle the exception
+
+265)A)Program if exception does not occur
+
+266)In this example, we have created the validate method that takes integer value as a parameter.
+ If the age is less than 18, we are throwing the ArithmeticException otherwise print a message welcome to vote.
+
+267)Program of Exception Propagation
+
+268)If the superclass method does not declare an exception, subclass overridden method cannot declare the checked exception.
+
+269)If the superclass method does not declare an exception, 
+subclass overridden method cannot declare the checked exception but can declare unchecked exception.
+
+270)Example in case subclass overridden method declares parent exception
+
+271)Example in case subclass overridden method declares same exception
+
+272)Example in case subclass overridden method declares subclass exception
+
+273)Example in case subclass overridden method declares no exception
+
+274)Let's see a simple example of java custom exception.
+
+
+
+
 
 
 
