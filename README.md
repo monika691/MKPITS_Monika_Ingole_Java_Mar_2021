@@ -710,6 +710,40 @@ subclass overridden method cannot declare the checked exception but can declare 
 
 274)Let's see a simple example of java custom exception.
 
+275)Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units
+by creating a class named 'Triangle' without any parameter in its constructor.
+
+276)Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units
+by creating a class named 'Triangle' with constructor having the three sides as its parameters.
+ 
+ 277)Print the sum, difference and product of two complex numbers by creating a class
+// named 'Complex' with separate methods for each operation whose real and imaginary parts are entered by user.
+
+278)Add two distances in inch-feet by creating a class named 'AddDistance'.
+
+280)Java Member inner class example
+
+In this example, we are creating msg() method in member inner class that is accessing the private data member of outer class.
+
+281)Java Member inner class example1
+
+282)Java Member inner class example2
+
+283)Java anonymous inner class example using class abstract ex1
+
+284)Java anonymous inner class example using class abstract ex2  
+
+285)Java anonymous inner class example using interface Ex1
+
+286)Java local inner class example
+
+287)Example of local inner class with local variable
+
+288)Example of nested interface which is declared within the interface
+
+289)Java static nested class example with instance method
+
+290)Java static nested class example with static method
 
 
 
