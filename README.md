@@ -776,6 +776,29 @@ Java Label Example
 308)Java AWT CheckboxGroup Example with ItemListener
 309)Java AWT Choice Example
 310)Java AWT Choice Example with ActionListener
+311)wrp of employee details using awt
+312)wrp of vowel details using awt
+313)wrp of total percentage grade details using awt
+314)wrp of calculate  area nd circumference grade details using radius in awt
+315)wrp of factorial  details using awt
+316)wrp of product order  details using awt
+317)Java AWT List Example
+318)Java AWT List Example with ActionListener
+
+319)Java AWT Scrollbar Example
+320)Java AWT Scrollbar Example with AdjustmentListener
+
+321)Java AWT MenuItem and Menu Example1
+322)Java AWT MenuItem and Menu Example2
+323)Java AWT PopupMenu Example1
+324)Java AWT Panel Example1
+325)Java AWT Panel Example2
+326)Java AWT Dialog Example
+327)Java AWT Toolkit Example
+328)Java AWT Toolkit Example: beep()
+329)Java AWT Toolkit Example: Change TitleBar Icon
+
+
 
 
 
