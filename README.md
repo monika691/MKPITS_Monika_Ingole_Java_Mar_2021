@@ -836,6 +836,43 @@ Java Label Example
 
 335)wrp of print table using awt
 
+336)Awt  using timer in elevator(timer class,timertask class) .
+
+337)Awt  using timer in elevator(timer class,timertasl class .
+
+338) java Program to create a simple JInternalFrame
+
+339). program to create multiple internal frames 
+
+340) . Program to create multiple frame and set icon to the frame 
+ 
+
+341) java Program to create multiple frame and set icon to the frame
+
+342)Java FileOutputStream Example 1: write byte
+
+343)Java FileOutputStream example 2: write string
+
+344)awt example to write data to file
+
+345)Java FileInputStream example 1: read single character
+
+346)Java FileInputStream example 2: read all characters
+
+347)awt example to read data to file
+
+348)Example of BufferedOutputStream class:
+
+349)Example of Java BufferedInputStream
+
+350)Example that reads the data from two files and writes into another file
+
+351)SequenceInputStream example that reads data using enumeration
+
+352)SequenceInputStream example that reads data using enumeration
+
+353)SequenceInputStream example that reads data using enumeration
+
 
 
 
