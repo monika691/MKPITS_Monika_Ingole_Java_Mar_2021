@@ -873,6 +873,43 @@ Java Label Example
 
 353)SequenceInputStream example that reads data using enumeration
 
+354)Java FileWriter Example
+ writing the data in the file testout.txt using Java FileWriter class.
+
+355)Java FileReader Example,reading the data from the text file testout.txt using Java FileReader class.
+
+356)Java PrintWriter Example of writing the data on a console and in a text file testout.txt using Java PrintWriter class.
+
+357)simultanious writing and reading data from a file
+
+358)Example of CharArrayWriter Class: example, writing a common data to 4 files a.txt, b.txt, c.txt and d.txt.
+
+359)Java Thread Example by extending Thread class
+
+360)2) Java Thread Example by implementing Runnable interface
+
+361)2) Java Thread Example by implementing Runnable interface Ex1
+
+362)Example of sleep method in java
+
+362)a thread twice it by the example given below
+
+363)call run() method directly instead start() method
+
+364)MainThreadStack Problem if you direct call run() method
+
+365)Example of join() method
+
+366)Example of join(long miliseconds) method
+
+367)Example of join() method example1
+
+368)Example of currentThread() method
+
+369)Example of priority of a Thread:
+
+370)Example of priority of a Thread:
+
 
 
 
