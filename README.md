@@ -930,6 +930,52 @@ Java Label Example
 
 380)Program of performing two tasks by two threadsEx4
 
+381)Simple Example of garbage collection in java.
+
+382)Simple Example of garbage collection in java example1.
+
+383)Simple Example of garbage collection in java example2.
+
+384)The problem without Synchronization.
+
+385)Example of java synchronized method  
+
+386)Account class using anonymous class
+
+387)example account class
+
+388) Program of synchronized method by using annonymous class  
+
+389)Example of Deadlock in java
+
+390)Example of synchronized block
+
+391)//Program of synchronized block by using annonymous class example1
+
+392)//Program of synchronized block by using annonymous class example2
+
+393)Example of static synchronization
+
+394)Same example of static synchronization by annonymous class using annonymous class to create the threads
+ 
+395)Example of inter thread communication in java
+
+396)Simple example of StringTokenizer class
+
+397)Example of nextToken(String delim) method of StringTokenizer classexample1
+
+398)Example of nextToken(String delim) method of StringTokenizer class example2
+
+399)Example of nextToken(String delim) method of StringTokenizer class example3
+
+
+
+
+
+
+
+
+
 
 
 
