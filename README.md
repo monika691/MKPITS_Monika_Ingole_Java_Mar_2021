@@ -1036,6 +1036,59 @@ Java Label Example
 
 433)Product program on traversing arraylist using foreach loop
 
+434) program on linkedlist class
+
+435)program on linkedlist to add element at particular position , addfirst method ,addlast method .
+
+436)program on removing elements from linkedlist.(remove, removeall, removefirst etc methods)
+
+437)4 LinkedList Example to reverse a list of elements
+
+438)example to create linkedlist collection of book class.
+
+439)program to create collection of fruits using List interface.
+
+440)program to How to convert Array to List
+
+441)program to How to convert List to Array.
+
+442)9 program on list to add element using set and retrieve element using get method.
+
+443)program to sort element of list collection.
+
+444)program on listiterator to traverse in forward and backword direction.
+
+445)program to create collection of books using List interface .
+
+446)program on adding  element in hashset .
+
+447)program on removing element in hashset .
+
+448)program to create hashset collection using arraylist collection.
+
+449)- create  a hashset collection for book.
+
+450)- program on linkedhashset class.
+
+451)program on linkedhashset ignoring duplicate elements
+
+452)program to create collection of book using linkedhashset.
+
+453)program to create collection using treeset class.
+
+454)program to display elements in reverse order in treeset class.
+
+455) example to retrieve and remove the highest and lowest Value.
+
+456)example to perform various NavigableSet operations in treeset class
+
+457)example to perform various SortedSetSet operations.
+
+458)example to create book collection using treeset class.
+
+459)Book programs in awt or swing.
+
+
 
 
 
