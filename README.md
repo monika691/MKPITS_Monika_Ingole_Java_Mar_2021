@@ -1088,6 +1088,49 @@ Java Label Example
 
 459)Book programs in awt or swing.
 
+460)- program on priorityquee to add element, remove elements using peek, remove, pop method.
+
+461)program to create collection of products using priority quee class
+
+462)program to create collection of products using priority quee class in swing.
+
+463)program to create collection using arraydeque class
+
+464)ArrayDeque Example: offerFirst() and pollLast()
+
+465)create a collection of employee using arraydeque class
+
+466)create a collection of employee using arraydeque class in swing.
+
+467)create a non generic key value collection using hasmap class and traverse using entryset and map.entry 
+
+468)create a  generic key value collection using hasmap class and traverse using entryset and map.entry 
+
+469)Java Map Example: comparingByKey()
+
+470)Java Map Example: comparingByKey() in Descending Order
+
+471)Java Map Example: comparingByValue()
+
+472)Java Map Example: comparingByValue() in Descending Order
+
+473) example of collection to add key value using hashmap class.
+
+474) example of collection to remove key value using hashmap class.
+
+475)program on linkedhashmap class
+
+476)-  create a key value sorted collection using keymap class
+
+477)- create a key value collection using hashtable class.
+
+478)Java Hashtable Example: remove()
+
+479)create a key value collection of book using hashtable class
+
+480)- the example of a Comparable interface that sorts the list elements on the basis of age.
+
+
 
 
 
