@@ -1130,25 +1130,27 @@ Java Label Example
 
 480)- the example of a Comparable interface that sorts the list elements on the basis of age.
 
+481)a simple of Java socket programming where client sends a text and server receives and prints it.
 
+482)a simple of Java socket programming where client sends a text and server receives and prints it example2.
 
+483)- create  a jdbc program to connect to mysql database.
 
+484)- create a jdbc program to create table into the database.
 
+485) -create a program to create table student .
 
+486)- program to insert records in our employee table created.
 
+487)- create a program to insert records into company table.(accept the value from the user).
 
+488)-  create a program to update record
 
+489) create a program to delete record
 
+490)- create a swing form to insert  ,update and delete and search records  into shop table
 
-
-
-
-
-
-
-
-
-
+ 
 
 
 
