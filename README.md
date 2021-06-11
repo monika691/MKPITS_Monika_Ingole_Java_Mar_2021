@@ -1150,6 +1150,39 @@ Java Label Example
 
 490)- create a swing form to insert  ,update and delete and search records  into shop table
 
+491)10 create a swing form to insert update delete and search supplier table.
+
+492) create a class shop having method to add, update, delete and search from shoptable .
+create a swing form to use the above class.
+
+493) create a registration form
+
+494) create a login form and check the credentials from the register table .
+
+495)create a program of  HTML To insert image.
+
+496)create a program of The HTML <p> element defines a paragraph.
+
+497)create a program of The HTML style attribute  to add styles to an element, such as color, font, size, and more.
+
+498)create a program of  HTML Text Formatting Elements
+
+499)create a program of  HTML Quotation and Citation Elements
+
+500)create a program of html in An internal CSS  defined in the <head> section of an HTML page, within a <style> element.
+
+501) create a program of html To use an external style sheet, add a link to it in the <head> section of each HTML page:
+
+502)create a programan absolute URL (a full web address) in the href attribute example1.
+
+502)create a programan absolute URL (a full web address) in the href attribute example2.
+
+503)creat a program of html to inset title.
+
+
+
+
+
  
 
 
