@@ -1198,6 +1198,67 @@ create a swing form to use the above class.
 511)Responsive Text Size example
 
 
+512)Example A form with input fields for text:
+
+513)Example A form with radio buttons:
+
+514)Example A form with checkboxes:
+
+515)Example A form with a submit button:
+
+516)Example On submit, send form data to "action_page.php":
+
+517)Example This example uses the GET method when submitting the form data:
+
+518)Example This example uses the POST method when submitting the form data:
+
+519)Example A form with autocomplete on:
+
+520)Example <label for="cars">Choose a car:</label>
+
+521)Use the multiple attribute to allow the user to select more than one value:
+
+522)The <textarea> Element The <textarea> element defines a multi-line input field (a text area):
+
+523)The <button> element defines a clickable button:
+
+524)The <legend> element defines a caption for the <fieldset> element.Example
+
+525)The <datalist> Element example
+
+526)Input Type Text Example
+
+527)Input Type Password example
+
+528)Input Type Reset example
+
+529)Input Type Color example
+
+530)Input Type Date Example
+
+531)Input Type Email example
+
+532)Input Type Month example
+
+533)Input Type Number example
+
+534)Input Type Range example
+
+535)Input Type Search example
+
+536)Example A read-only input field:
+
+537)Example A disabled input field:
+
+538)Example Set a width for an input field:
+
+539)Example An input field that can contain only three letters (no numbers or special characters):
+
+540)Example An input field with a placeholder text:
+
+541)Example Let the "First name" input field automatically get focus when the page loads:
+
+
 
 
 
