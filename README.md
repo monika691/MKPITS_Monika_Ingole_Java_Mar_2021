@@ -1179,6 +1179,29 @@ create a swing form to use the above class.
 
 503)creat a program of html to inset title.
 
+504)HTML tables web developers to arrange data into rows and columns.
+
+505)Unordered HTML List example
+
+506)Ordered HTML List 
+
+506)The class attribute is often used to point to a class name in a style sheet. 
+
+507)An HTML iframe  to display a web page within a web page.
+
+508)Iframe - Target for a Link
+
+509)CSS Flexbox Layout
+
+510)Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones):
+
+511)Responsive Text Size example
+
+
+
+
+
+
 
 
 
